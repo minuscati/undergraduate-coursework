@@ -17,7 +17,6 @@ This folder contains six computer-lab reports together with R and MATLAB code an
 - `data/` — CSV and Excel datasets used by the exercises
 - `reports/` — six original Chinese experiment reports
 
-Generated plots, lecture slides, mind maps, and temporary R history files are excluded.
 
 ## Language note
 
