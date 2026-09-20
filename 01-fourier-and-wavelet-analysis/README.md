@@ -2,7 +2,7 @@
 
 This folder contains a selected final project from the undergraduate course *Fourier and Wavelet Analysis*. The project investigates transform-domain image fusion using Fourier- and wavelet-based methods. Several wavelet families and fusion rules are compared using quantitative measures including PSNR, SSIM, and entropy.
 
-The original final report is written in Chinese. MATLAB scripts and selected evaluation figures are included. Downloaded reference implementations, course templates, papers, and unrelated exploratory materials have been excluded.
+The original final report is written in Chinese. MATLAB scripts and selected evaluation figures are included. 
 
 ## Contents
 
