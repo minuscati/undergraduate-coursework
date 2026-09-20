@@ -1,8 +1,8 @@
 # Complex Networks and Big Data Analysis
 
-This folder contains a featured metro-network project and selected experiment reports from my undergraduate studies. The experiments use Python and NetworkX to construct and analyse networks, measure topology, detect communities, rank nodes, and study random-network models.
+This folder contains a featured metro-network project and some selected experiment reports. The experiments use Python and NetworkX to construct and analyse networks, measure topology, detect communities, rank nodes, and study random-network models.
 
-The reports are written in Chinese and include source-code excerpts, results, visualisations, and discussion. Course templates, textbooks, lecture slides, reference manuals, and unrelated datasets have been excluded.
+The reports are written in Chinese and include source-code excerpts, results, visualisations, and discussion.
 
 ## Featured project: Wuxi Metro Network Analysis
 
@@ -48,4 +48,4 @@ The original experiment reports remain in Chinese. This English overview is prov
 
 ## 中文说明
 
-本目录以“基于图数据挖掘的无锡地铁网络分析与特征工程”为重点项目，并收录复杂网络相关课程的精选实验报告。重点项目使用 NetworkX 构建无锡地铁有向加权图，完成最短路径导航与多种中心性分析。其余内容包括网络构建与读取、基本拓扑性质、度相关性、社团检测、节点重要性与相似性，以及 ER 随机网络和 BA 无标度网络。教材、教师课件、参考手册、实验模板及无关数据均未收录。
+该文件夹包含一个精选的地铁网络项目以及一些课程实验报告。这些实验利用 Python 和 NetworkX 构建并分析网络，涵盖拓扑结构测量、社团检测、节点排序以及随机网络模型研究等内容。
