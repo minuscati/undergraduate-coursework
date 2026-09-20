@@ -1,0 +1,12 @@
+library(readxl)
+library(tidyverse)
+data <- read_excel("E:/R_data/第三章习题数据.xlsx",1)
+sapply(data[,-1],shapiro.test)
+data<-data[,-1]
+sapply(data,mean)
+cov(data)
+cor(data)
+Dim_d=dim(data)
+Scatter_d = (Dim_d[1]-1)*cov(data)
+Standard_d<-scale(data,center = T,scale = T) 
+Covariance_SX = cov(Standard_d)

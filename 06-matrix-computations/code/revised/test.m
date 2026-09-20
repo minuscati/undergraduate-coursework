@@ -1,0 +1,10 @@
+clear all;
+clc;
+A=[10 3 1;2 -10 3;1 3 10];
+b=[14 -5 14]';
+x0=[0 0 0]';
+ep=1e-6;
+% w=1;
+% [x,count]=Jacobi(A,b,x0,ep);
+% [x,count]=SOR(A,b,x0,ep,w);
+% [x,count]=GS(A,b,x0,ep);
