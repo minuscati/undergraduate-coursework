@@ -1,0 +1,29 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+__MACOSX/
+.idea/
+.vscode/
+
+# Python and Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# MATLAB artifacts
+*.asv
+
+# Generated, compiled, and temporary files
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.tmp
+*.bak
+
+# Local datasets and environments
+data/
+datasets/
+.venv/
+venv/

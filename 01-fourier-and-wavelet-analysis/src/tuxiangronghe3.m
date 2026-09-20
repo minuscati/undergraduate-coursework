@@ -1,0 +1,10 @@
+clear all;
+clc;
+x1 = imread('a01_1.tif');
+x2 = imread('a01_2.tif');
+N=5;
+wname='db2';
+wave=wtfusion(x1,x2,N,wname);
+imshow(x1);
+imshow(x2);
+imshow(wave);
