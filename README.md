@@ -2,8 +2,7 @@
 
 Selected projects and reports from my undergraduate studies in Information and Computing Science.
 
-Most original coursework reports are written in Chinese because the courses were completed at a Chinese university. English summaries are provided to make the materials easier to navigate. This repository contains selected personal or team coursework rather than complete course materials.
-
+Most original coursework reports are written in Chinese because the courses were completed at a Chinese university. English summaries are provided to make the materials easier to navigate. This repository contains selected personal or team coursework.
 ## Selected coursework
 
 1. [Fourier and Wavelet Analysis](./01-fourier-and-wavelet-analysis) — image fusion in the transform domain, MATLAB implementations, and quantitative evaluation.
@@ -21,4 +20,4 @@ Most original coursework reports are written in Chinese because the courses were
 
 # 本科课程项目归档
 
-本仓库整理了信息与计算科学本科阶段具有代表性的课程项目、代码和实验报告。原始报告保留中文，仓库导航和项目简介提供英文说明。仓库仅收录经过筛选的个人或团队成果，不包含完整课程资料、教师课件、教材、参考论文及第三方代码。
+本仓库整理了我在信息与计算科学专业本科学习阶段具有代表性的课程项目、代码和实验报告。原始报告保留中文，仓库导航和项目简介提供英文说明。仓库仅收录经过筛选的个人或团队项目。
