@@ -23,7 +23,7 @@ __pycache__/
 *.bak
 
 # Local datasets and environments
-data/
-datasets/
+/data/
+/datasets/
 .venv/
 venv/
