@@ -20,7 +20,6 @@ Most original coursework reports are written in Chinese because the courses were
 
 - Repository navigation and project summaries are provided in English.
 - Original reports are retained in Chinese and marked with the `-zh` suffix.
-- Textbooks, lecture slides, assignment templates, downloaded papers, third-party source repositories, and large datasets are intentionally excluded.
 - Team projects are identified in their course README files.
 
 ---
