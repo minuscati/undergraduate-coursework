@@ -17,8 +17,6 @@ This folder contains a course research project on forecasting the gross regional
 - `code/` — original R analysis scripts
 - `data/provincial-annual-data.xls` — annual provincial economic data used in the project
 
-The scripts are preserved as coursework artifacts and may require local path and package adjustments before rerunning.
-
 ## Language note
 
 The original report and code comments remain in Chinese. This English overview is provided for accessibility.
