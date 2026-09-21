@@ -6,12 +6,15 @@ Most original coursework reports are written in Chinese because the courses were
 
 ## Selected coursework
 
-1. [Fourier and Wavelet Analysis](./01-fourier-and-wavelet-analysis) — image fusion in the transform domain, MATLAB implementations, and quantitative evaluation.
-2. [Data Mining and Machine Learning](./02-data-mining-and-machine-learning) — a bank telemarketing prediction project and selected machine-learning labs.
+1. [Data Mining and Machine Learning](./01-data-mining-and-machine-learning) — a bank telemarketing prediction project and selected machine-learning labs.
+2. [Time Series Analysis](./02-time-series-analysis) — a research project comparing statistical and machine-learning methods for forecasting Jiangsu Province's gross regional product.
 3. [Complex Networks and Big Data Analysis](./03-complex-networks-and-big-data-analysis) — a featured Wuxi Metro network-analysis project plus experiments on community detection, node importance, and random-network models.
-4. [Numerical Analysis](./04-numerical-analysis) — implementations and reports covering interpolation, least squares, numerical integration, root finding, and ordinary differential equations.
-5. [Matrix Computations](./05-matrix-computations) — MATLAB implementations of direct and iterative solvers, matrix factorizations, least squares, and eigenvalue algorithms.
+4. [Fourier and Wavelet Analysis](./04-fourier-and-wavelet-analysis) — image fusion in the transform domain, MATLAB implementations, and quantitative evaluation.
+5. [Econometrics](./05-econometrics) — an empirical study of factors associated with grain production in China using regression diagnostics and model correction.
 6. [Multivariate Statistics](./06-multivariate-statistics) — R and MATLAB analyses of visualization, descriptive statistics, hypothesis testing, discriminant analysis, clustering, and principal component analysis.
+7. [Bioinformatics](./07-bioinformatics) — laboratory work on sequence analysis, gene-expression data, phylogenetics, and protein-structure prediction, plus a machine-learning literature review.
+8. [Numerical Analysis](./08-numerical-analysis) — implementations and reports covering interpolation, least squares, numerical integration, root finding, and ordinary differential equations.
+9. [Matrix Computations](./09-matrix-computations) — MATLAB implementations of direct and iterative solvers, matrix factorizations, least squares, and eigenvalue algorithms.
 
 ## Language and scope
 
