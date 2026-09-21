@@ -20,8 +20,6 @@ The final review discusses machine-learning methods for gene-expression data ana
 - `reports/experiment-*-report-zh.docx` — editable Chinese experiment reports
 - `reports/final-review-zh.pdf` and `.docx` — final Chinese literature review
 
-Course instructions, downloaded papers, software packages, and large external datasets are excluded.
-
 ## Language note
 
 The original reports remain in Chinese. This English overview is provided for accessibility.
