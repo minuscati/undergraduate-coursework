@@ -14,7 +14,6 @@ This folder contains a course research project on forecasting the gross regional
 ## Included materials
 
 - `report/final-report-zh.pdf` — browser-friendly Chinese report
-- `report/final-report-zh.docx` — editable Chinese report
 - `code/` — original R analysis scripts
 - `data/provincial-annual-data.xls` — annual provincial economic data used in the project
 

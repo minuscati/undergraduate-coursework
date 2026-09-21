@@ -14,7 +14,6 @@ This folder contains an empirical course project on factors associated with grai
 ## Included materials
 
 - `report/final-report-zh.pdf` — browser-friendly Chinese report
-- `report/final-report-zh.docx` — editable Chinese report
 - `data/annual-data.xls` — annual source data
 - `data/*.wf1` — EViews workfiles used during model development
 
